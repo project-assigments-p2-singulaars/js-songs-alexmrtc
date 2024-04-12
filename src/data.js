@@ -332,7 +332,7 @@ export const songs = [
         year: 1962,
         artist: "Ray Charles",
         album: "Ray Charles Modern Sounds in Country and Western Music",
-        duration: "",
+        duration: "3min 17sec",
         genre: ["R&B", "Soul", "Jazz", "Blues"]
     },
     {
@@ -564,7 +564,7 @@ export const songs = [
         year: 1994,
         artist: "Green Day",
         album: "Dookie",
-        duration: "",
+        duration: "3min 2sec",
         genre: ["Punk", "Rock"]
     },
     {
@@ -572,7 +572,7 @@ export const songs = [
         year: 1994,
         artist: "Green Day",
         album: "Dookie",
-        duration: "",
+        duration: "2min 14sec",
         genre: ["Punk", "Rock"]
     },
     {
@@ -876,7 +876,7 @@ export const songs = [
         year: 1994,
         artist: "NOFX",
         album: "Punk in Drublic",
-        duration: "",
+        duration: "2min 33sec",
         genre: ["Punk", "Rock"]
     },
     {
